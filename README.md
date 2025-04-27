@@ -28,8 +28,10 @@ probability = experiment(hat=hat,
                          num_experiments=2000)
 
 print(f"Estimated Probability: {probability}")
-License:
-This project is licensed under the MIT License.
+
 
 Requirements:
-Python 3.x
+Python 3.x ```
+
+##License:
+This project is licensed under the MIT License.
