@@ -14,6 +14,9 @@ This Python project simulates the process of drawing balls from a hat with a spe
 
 2. **experiment**:
    - Runs multiple experiments to calculate the probability of drawing the expected combination of balls.
+     
+##License:
+This project is licensed under the MIT License.
 
 ## Example Usage:
 
@@ -31,7 +34,6 @@ print(f"Estimated Probability: {probability}")
 
 
 Requirements:
-Python 3.x ```
+Python 3.x 
 
-##License:
-This project is licensed under the MIT License.
+
