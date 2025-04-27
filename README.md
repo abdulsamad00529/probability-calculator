@@ -15,7 +15,7 @@ This Python project simulates the process of drawing balls from a hat with a spe
 2. **experiment**:
    - Runs multiple experiments to calculate the probability of drawing the expected combination of balls.
      
-##License:
+## License:
 This project is licensed under the MIT License.
 
 ## Example Usage:
